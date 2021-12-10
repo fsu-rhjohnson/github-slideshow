@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Same religion as Ram, Flynn, and Tron.
 Use the left arrow to go back!
